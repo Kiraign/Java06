@@ -1,5 +1,7 @@
 package org.example;
 
+import ru.netology.services.ScheduleService;
+
 public class Main {
     public static void main(String[] args) {
         ScheduleService service = new ScheduleService();
